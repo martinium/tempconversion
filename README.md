@@ -1,2 +1,2 @@
 # Temperature Conversion
-## Temperature Converter - Converts supplied Fahrenheit Temperature to Celsius and Kelvin Degrees.
+### This program converts supplied Fahrenheit Temperature to Celsius and Kelvin Degrees.
